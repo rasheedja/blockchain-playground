@@ -9,3 +9,10 @@
 - Main plays around with the blockchain lib, it works
 - Add README
 - Add LICENSE
+
+## 0.1.0.0 -- 2025-05-03
+
+- Add BlockchainM
+  - StateT type alias
+    - Stores Blockchain in State
+	- Then runs in IO

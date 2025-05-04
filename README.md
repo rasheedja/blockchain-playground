@@ -5,7 +5,7 @@ they work.
 
 ## TODO
 
-- Put Blockchain in StateT 
-- Servant API
 - Tests
-
+- Servant API
+  - IORef/DB/Some persistent blockchain
+- Forks
